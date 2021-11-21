@@ -1,0 +1,1 @@
+Please download the GloVe Vectors and extract the file into this folder to get the code working.
